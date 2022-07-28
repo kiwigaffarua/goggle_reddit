@@ -1,0 +1,5 @@
+! name: Reddit
+! description: A quick test of Goggles
+! public: false
+! author: Jon G
+$boost=10,site=reddit.com,inurl
