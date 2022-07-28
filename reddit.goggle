@@ -2,4 +2,4 @@
 ! description: A quick test of Goggles
 ! public: false
 ! author: Jon G
-$boost=100,site=reddit.com,inurl
+$boost=9,site=reddit.com,inurl
